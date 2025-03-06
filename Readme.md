@@ -29,3 +29,18 @@
 # git add remote repo and then URL
 
 
+# GIt branch
+
+# Git branch -m to rename the branch
+
+# git checkhout name of the branch
+
+# git checkout --b name of the new branch you want to create
+
+# git branch -d name of the branch you want to delete
+
+
+# git merge name of the branch you want to merge
+
+
+
