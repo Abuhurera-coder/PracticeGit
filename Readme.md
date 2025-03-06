@@ -29,6 +29,7 @@
 # git add remote repo and then URL
 
 
+
 #git pull commands are  now gonne be used to pull the remote (new nut changes) in our local
 
 # GIt branch
@@ -49,5 +50,8 @@
 # to check the difference between the two branches we use the git diff command along with its name
 
 # git merge command along with the name of the branch we want to merge with the current branch
+
+
+# git pull commands are  now gonne be used to pull the remote (new changes) in our local
 
 
