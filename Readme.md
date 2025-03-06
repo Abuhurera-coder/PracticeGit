@@ -29,3 +29,5 @@
 # git add remote repo and then URL
 
 
+# git pull commands are  now gonne be used to pull the remote changes in our local
+
