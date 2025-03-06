@@ -29,6 +29,8 @@
 # git add remote repo and then URL
 
 
+#git pull commands are  now gonne be used to pull the remote (new nut changes) in our local
+
 # GIt branch
 
 # Git branch -m to rename the branch
