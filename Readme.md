@@ -44,3 +44,8 @@
 
 
 
+# to check the difference between the two branches we use the git diff command along with its name
+
+# git merge command along with the name of the branch we want to merge with the current branch
+
+
